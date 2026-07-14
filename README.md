@@ -36,3 +36,16 @@ the committed data.
 
 MIT. See `LICENSE`.
 
+## Citation
+
+If you use this repository in academic work, please cite it as:
+
+```bibtex
+@software{topologicalknotindexer_khovanov_homology_list,
+  author = {{TopologicalKnotIndexer contributors}},
+  title = {{khovanov-homology-list}},
+  year = {2026},
+  url = {https://github.com/TopologicalKnotIndexer/khovanov-homology-list}
+}
+```
+
