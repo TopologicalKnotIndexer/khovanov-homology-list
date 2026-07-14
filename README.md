@@ -42,7 +42,7 @@ If you use this repository in academic work, please cite it as:
 
 ```bibtex
 @software{topologicalknotindexer_khovanov_homology_list,
-  author = {{TopologicalKnotIndexer contributors}},
+  author = {{GGN\_2015}},
   title = {{khovanov-homology-list}},
   year = {2026},
   url = {https://github.com/TopologicalKnotIndexer/khovanov-homology-list}
